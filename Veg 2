@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Vegetable Health Benefits</title>
+    <style>
+        /* Your custom CSS styles here */
+    </style>
+</head>
+<body>
+    <h1>Vegetable Health Benefits</h1>
+    
+    <!-- Broccoli Section -->
+    <div class="vegetable-section broccoli">
+        <h2>Broccoli</h2>
+        <p>
+            Broccoli is a nutritious green vegetable that is rich in vitamins, minerals, and fiber.
+            It is known for its cancer-fighting properties and is a great source of vitamin C and K.
+            Include some interesting facts and cooking tips about broccoli here.
+        </p>
+    </div>
+
+    <!-- Add sections for other vegetables similar to the broccoli section -->
+
+    <!-- Spinach Section -->
+    <div class="vegetable-section spinach">
+        <h2>Spinach</h2>
+        <p>
+            Spinach is a leafy green vegetable packed with iron, calcium, and antioxidants.
+            It's beneficial for eye health and provides a good amount of vitamin A and folate.
+            Add more details and interesting information about spinach here.
+        </p>
+    </div>
+
+    <!-- Carrots Section -->
+    <div class="vegetable-section carrots">
+        <h2>Carrots</h2>
+        <p>
+            Carrots are a vibrant orange vegetable that contains beta-carotene, which converts to vitamin A in the body.
+            They are good for eye health and immune support.
+            Mention some interesting carrot facts or health benefits here.
+        </p>
+    </div>
+
+    <!-- Peppers Section -->
+    <div class="vegetable-section peppers">
+        <h2>Peppers</h2>
+        <p>
+            Peppers come in various colors like red, green, and yellow, each providing different nutrients.
+            They are rich in vitamin C and antioxidants, supporting overall health and immunity.
+            Add information about the different types of peppers and their benefits.
+        </p>
+    </div>
+
+    <!-- Tomatoes Section -->
+    <div class="vegetable-section tomatoes">
+        <h2>Tomatoes</h2>
+        <p>
+            Tomatoes are a versatile fruit used as a vegetable in cooking.
+            They are a good source of vitamins A and C, as well as lycopene, known for its antioxidant properties.
+            Include details about the various tomato varieties and their uses.
+        </p>
+    </div>
+
+    <!-- Add more sections for other vegetables as desired -->
+
+</body>
+</html>
